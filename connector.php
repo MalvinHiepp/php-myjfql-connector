@@ -1,8 +1,7 @@
 <?php
 
     /*******************************************************************************
-    * Created by: Malvin H.                                                        *
-    * User: Schnoggy                                                               *
+    * Created by: Schnoggy                                                         *
     * Date: 17/05/2021                                                             *
     * Project: Connector-JFQL                                                      *
     * Information: MIT license                                                     *             
