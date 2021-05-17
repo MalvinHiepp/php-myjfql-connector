@@ -26,4 +26,4 @@ PHP-Connector for Database [MyJFQL](https://github.com/joker-games/MyJFQL).
    ```
    'MyJFQL command'
    ```
-4. If you enter the page, youre Database will be pasted there.
+4. If you enter the page, youre database will be pasted there.
