@@ -27,4 +27,3 @@
         return $output;
         curl_close($ch);
 }
-?>
