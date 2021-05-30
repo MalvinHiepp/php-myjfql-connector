@@ -7,7 +7,7 @@ PHP-Connector for Database [MyJFQL](https://github.com/joker-games/MyJFQL).
 2. Paste
     ```
     <?php
-    include 'connector.php;
+    include 'connector.php';
 
     $url = 'http://localhost:2291/query';
     $user = 'root';
