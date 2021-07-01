@@ -28,8 +28,8 @@ PHP-Connector for Database [MyJFQL](https://github.com/joker-games/MyJFQL).
    ```
 4. If you enter the page, youre database will be pasted there.
 
-## WARNING If you use Apache2, you have to install the php7.4-curl extension!
-    ```
+## WARNING: If you use Apache2, you have to install the php7.4-curl extension!
+    
     sudo apt-get install php7.4-curl
     systemctl restart apache2
-    ```
+    
