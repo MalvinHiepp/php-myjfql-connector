@@ -23,6 +23,7 @@
         
         $output = curl_exec($ch);
         
-        return $output;
         curl_close($ch);
+        
+        return $output;
 }
